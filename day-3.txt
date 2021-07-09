@@ -1,0 +1,71 @@
+Test execution
+review of test cases-------sign off test cases-----done by client
+
+
+test suite
+grouping the test cases
+
+test cycle----number of iteration
+
+test execution is the mirror image of production environment
+
+production environment------------------test bed
+
+Prerequistile for test execution
+1.signed of test cases
+2.test cycles/test suite
+3.testing environment
+4.test data----------inputs given to the application
+
+master test data------------client
+
+master test data cannot be tweaked/changed
+
+secondary testdata----->changed by tester
+
+5.access to appliction,dba,server
+
+build verfication test
+
+build 1.0
+smoke------pass----test execution--
+build1.1
+
+Execution status:
+1.pass---------
+.ev=av
+2.fail
+ev<>av
+
+3.blocked-----
+.depend testcases fails
+
+4.no run----defualt 
+
+
+severity-------->tester
+
+high
+medium
+low
+
+s1
+s2
+s3
+s4
+showstopper/critical
+major
+low
+
+1.showstopper-------
+
+2.major
+
+
+high severity high priority
+eg:showstopper
+high severity low priority
+
+low severity high priority
+colour change or spelling in logo of the company
+low priority low priority
