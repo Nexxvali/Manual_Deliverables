@@ -1,0 +1,45 @@
+
+
+**************MAke my trip*****************
+To check whether the one way provides valid search results for the valid submission(P)
+To check whether the one way provides error message for the invalid submission(n)
+
+To check whether the round way provides valid search results for the valid submission(P)
+To check whether the round way provides error message for the invalid submission(N)
+To check whether the respective error message for the null values submitted(eXCEP)
+To check whehter the user able to search for multicity using add another city(p)
+tO CHECK WHETHER THE USER ABLE TO BOOK MULTIPLE TICKETS USING MULTIPLE ONEWAY(aLTERNATE)
+To check whether multi city provides error message for the invalid submission(N)
+Field validation
+From
+To
+Departure
+Return
+Traveller class
+Add another city
+
+
+
+
+bASIC----------> POSITIVE AND NEGATIVE
+aLTERNATE
+eXCEPTION
+
+
+One way------------> round -----------multicity(bASIC)
+valid                valid            valid
+invalid              invalid          invalid
+
+ALTERNATE----->MULTIPLE TIMES OF ONE WAY (MULTI CITY)
+
+Exception----------> null values
+
+Field validation
+From
+To 
+depature
+return
+traveller class
+add multi city
+
+
